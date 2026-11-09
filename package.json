@@ -1,0 +1,13 @@
+{
+  "name": "shipping-ai-app-rescue-synthetic-demos",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Three synthetic repair demonstrations; not client work",
+  "scripts": {"test": "node --test test/*.test.cjs"},
+  "dependencies": {
+    "express": "5.1.0",
+    "jsdom": "26.1.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
+}
